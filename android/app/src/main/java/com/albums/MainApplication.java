@@ -1,4 +1,4 @@
-package com.albumsrn;
+package com.albums;
 
 import android.app.Application;
 
