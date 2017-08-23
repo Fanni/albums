@@ -1,2 +1,3 @@
 # albums
-Implement of Udemy course
+list of Taylor Swift albums, 
+trying ReactNative
